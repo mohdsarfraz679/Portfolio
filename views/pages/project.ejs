@@ -1,0 +1,20 @@
+<div class="container project">
+  <div class="row">
+    <% project.forEach(function (project) {%>
+    <div class="col-sm-12 col-md-6 col-lg-4 mb-3">
+
+      <div class="card h-100">
+
+        <div class="card-body">
+          <h4 class="card-title"><%=project.name%></h4>
+          <h6 class="card-subtitle mb-2 text-muted"><%=project.topic%>
+            <br><%=project.date%> - <%=project.end%></h6>
+
+          <p class="card-text"><%=project.description%></p>
+
+        </div>
+      </div>
+    </div>
+    <%})%>
+  </div>
+</div>

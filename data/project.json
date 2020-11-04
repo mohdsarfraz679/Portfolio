@@ -1,0 +1,39 @@
+{
+    "project": [
+        {
+            "name": "Dream Interpretation Website",
+            "topic": "Web development",
+            "date": "March 2020",
+            "end": "April 2020",
+            "description": "A system designed to calculate the expense daily, monthly, yearly. By the help of this website you will find your expense which you spend accordingly. This project was made with the help of HTML, CSS, JavaScript, Bootstrap, and PHP."
+        },
+        {
+            "name": "Blogging Website",
+            "topic": "Web development",
+            "date": "September 2019",
+            "end": "November 2019",
+            "description": "A system designed to write and read blogs, like comment and edit functions are also implemented with the help of CSS, HTML, Bootstrap, Java Script, jQuery, Json and Angular Js."
+        },
+        {
+            "name": "Scientific calculator",
+            "topic": "Calculator",
+            "date": "August 2018",
+            "end": "October 2018",
+            "description": "The project is to calculate the sum, difference, division, multiplication, logarithm, sine, cosine, tangent, inverse, root and many function using the python language including the GUI(Graphical User Interface)."
+        },
+        {
+            "name": "Smart Irrigation System",
+            "topic": "Irrigation",
+            "date": "March 2018",
+            "end": "May 2018",
+            "description": "The project was to develop a system to irrigate automatically without the loss of water. The list of the components used in this project were compiled and were taken through Digitek Solution. Also, the entire project of irrigation system was studied."
+        },
+        {
+            "name": "Hotel Management System",
+            "topic": "Web Development",
+            "date": "February 2018",
+            "end": "May 2018",
+            "description": "This project was to develop a website on hotel management system with the help of HTML,CSS and javaScript."
+        }
+    ]
+}
